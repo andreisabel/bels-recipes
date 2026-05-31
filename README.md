@@ -1,6 +1,6 @@
-# 🍳 Proyecto Fundamentos Desarrollo Web Semestre 2023/I: Bel's Recipes - Blog de Recetas Interactivo
+# Proyecto Fundamentos Desarrollo Web Semestre 2023/I: Bel's Recipes - Blog de Recetas Interactivo
 
-## 🚀 1. Descripción y Objetivo General
+## 1. Descripción y Objetivo General
 
 **Bel's Recipes**, es un **Blog de Recetas Interactivo** desarrollado como **Proyecto Universitario**.
 
@@ -10,7 +10,7 @@ El sistema está enfocado en una arquitectura **cliente-servidor** clásica, con
 
 ---
 
-## ✨ 2. Especificación de Funcionalidades
+## 2. Especificación de Funcionalidades
 
 El proyecto implementa las siguientes funcionalidades clave, que involucran el uso de **PHP y MySQL**[cite: 19]:
 
@@ -25,20 +25,20 @@ El proyecto implementa las siguientes funcionalidades clave, que involucran el u
 
 ---
 
-## 💾 3. Estructura de la Base de Datos (`blogrecetas`)
+## 3. Estructura de la Base de Datos (`blogrecetas`)
 
 El proyecto utiliza una base de datos relacional **MySQL** (`blogrecetas`).
 
 ---
 
-## 🛠️ 4. Tecnologías y Dependencias
+## 4. Tecnologías y Dependencias
 
 * **Backend / Lógica:** **PHP**
 * **Base de Datos:** **MySQL** (MariaDB)
 * **Frontend / Diseño:** **HTML, CSS, JavaScript**
 * **Entorno de Desarrollo:** Se recomienda el uso de **XAMPP o Laragon**.
 
-## ⚙️ 5. Instalación y Configuración Local
+## 5. Instalación y Configuración Local
 
 1.  **Clonar Repositorio:** Mueve el proyecto a tu directorio web (`htdocs` o `www`).
 2.  **Configurar Base de Datos:**
@@ -49,7 +49,7 @@ El proyecto utiliza una base de datos relacional **MySQL** (`blogrecetas`).
 
 ---
 
-## 👨‍💻 6. Autora
+## 6. Autora
 
 Este proyecto fue desarrollado por:
 * Andrea Isabel Vega Márquez
